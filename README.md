@@ -1,8 +1,11 @@
 
 # Init  start 
 # umanji_web
+# Free Template 
+https://templated.co/      Heilo theme 
 
 
+`command`
 echo "# umanji_web" >> README.md
 git init
 git add README.md
